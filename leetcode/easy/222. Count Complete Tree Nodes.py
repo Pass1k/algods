@@ -1,4 +1,5 @@
-import deque
+from collections import deque
+
 
 class Solution(object):
     def countNodes(self, root):
